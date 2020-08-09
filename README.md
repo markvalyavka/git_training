@@ -8,7 +8,7 @@ But you don't just want to learn commands, you want to understand what you're us
 
 Then this is meant for you!
 
-Let's get started!
+Let's get started
 
 ---
 
